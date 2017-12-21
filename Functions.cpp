@@ -10,7 +10,7 @@ return a + b;	//функция суммы
 
 double MySub(double a, double b) 
 {
-	//функция вычитания
+	return a - b;//функция вычитания
 }
 
 double MyMul(double a, double b)
